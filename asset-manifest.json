@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chatBSA/static/css/main.8d5af814.css",
+    "main.js": "/chatBSA/static/js/main.049e7857.js",
+    "static/js/787.cfd8f164.chunk.js": "/chatBSA/static/js/787.cfd8f164.chunk.js",
+    "index.html": "/chatBSA/index.html",
+    "main.8d5af814.css.map": "/chatBSA/static/css/main.8d5af814.css.map",
+    "main.049e7857.js.map": "/chatBSA/static/js/main.049e7857.js.map",
+    "787.cfd8f164.chunk.js.map": "/chatBSA/static/js/787.cfd8f164.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d5af814.css",
+    "static/js/main.049e7857.js"
+  ]
+}
