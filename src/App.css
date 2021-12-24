@@ -13,7 +13,6 @@
   overflow: scroll;
   margin: 1rem auto;
   scroll-behavior: smooth;
-  /* width: 50%; */
 }
 
 .header {
@@ -62,6 +61,7 @@
   border: none;
   cursor: pointer;
   height: 1.5rem;
+  width: 4rem;
 }
 
 .own-message button:hover,

@@ -34,12 +34,10 @@ function Chat() {
 
     fetchData();
   }, []);
-  console.log(state);
+  // console.log(state);
 
   return (
     <div className="chat">
-      <div style={{ fontSize: "1rem" }}></div>
-      <h6 style={{ margin: "0", fontSize: "1rem", fontWeight: "300" }}></h6>
       <Header state={state} />
       {loading && <Preloader />}
       <MessageList state={state} setState={setState} />

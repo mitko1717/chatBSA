@@ -1,5 +1,4 @@
 import React from "react";
-// import { useEffect } from "react";
 
 const Header = (state) => {
   const usersCount = state.state.reduce(function (acc, curr) {
